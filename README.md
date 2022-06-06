@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chrisPfaff/chrisPfaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/chrispfaff10"><img src="https://api.daily.dev/devcards/9fbaeaedbfb24a69801dcd73fbc945cf.png?r=d3w" width="400" alt="Chris Pfaff's Dev Card"/></a>
+
